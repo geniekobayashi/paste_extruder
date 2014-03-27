@@ -1,0 +1,11 @@
+* Experimental paste extruder for Rostock mini
+
+Used NPM linear stepper PFCL25-48Q4(048)/optional 60mm stroke.
+
+http://www.pulsemotor.com/products/linear_stepping/pm/pfcl25/pfcl25_48q4_048.html
+
+All of RP parts data are optimized to print using ABS filament.
+
+Blog article is available at the following URL (Japanese).
+
+http://etherpod.org/blog/?p=6865
